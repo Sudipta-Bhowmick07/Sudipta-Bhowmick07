@@ -5,13 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipta-bhowmick07&label=Profile%20views&color=0e75b6&style=flat" alt="sudipta-bhowmick07" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **.net framework**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sudipta-bhowmick01/](https://www.linkedin.com/in/sudipta-bhowmick01/)
-
-- 💬 Ask me about **.net**
-
-- 📫 How to reach me **sudiptabhowmick617@gmail.com**
+- 📫 Reach me at **sudiptabhowmick617@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
