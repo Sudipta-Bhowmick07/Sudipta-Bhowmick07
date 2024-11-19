@@ -1,3 +1,4 @@
+![logo](https://github.com/Sudipta-Bhowmick07/Sudipta-Bhowmick07/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Sudipta Bhowmick</h1>
 <h3 align="center">Versatile .NET & SQL Server Professional</h3>
 
